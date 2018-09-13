@@ -1,4 +1,13 @@
 {
 	"name": "rival-movie-webhook",
-	"description": "A Movie webhook that give an information about the details of the movie"
+	"description": "A Movie webhook that give an information about the details of the movie",
+	"repository": "https://github.com/valdirivaaal/sample-webhook.git",
+	"keywords": [
+		"movies",
+		"api",
+		"webhook",
+		"dialogflow",
+		"nodejs",
+		"chatbot"
+	]
 }
